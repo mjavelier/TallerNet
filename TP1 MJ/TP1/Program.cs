@@ -11,6 +11,9 @@ namespace TP1
     {
         static void Main(string[] args)
         {
+
+
+
             //Martin Javelier
 
             //hacer un programa de consola en .net que resuelva cada uno de los siguientes enuncuados
